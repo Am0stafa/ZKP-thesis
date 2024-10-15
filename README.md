@@ -139,30 +139,29 @@ Key features of the project include:
 
 ## Implementation Plan
 
-### Week 1: Learning Rust Fundamentals (Ends 07/10/2024)
+### Week 1: Learning Rust Fundamentals (Ends 14/10/2024)
 - Set up Rust development environment
 - Complete Rust basics:
   - Variables and data types
   - Functions and control flow
   - Structs and implementations
+- Introduction to lifetimes
+- Practice with small Rust projects to reinforce learning
+- Complete exercises on ownership, borrowing, and references
+
+### Week 2: Networking Basics with Rust (Ends 21/10/2024)
+- Review CCNA content for networking fundamentals
 - Study Rust's ownership system:
   - Understand the basics of ownership
   - Learn about owning and moving values
 - Explore Rust's borrowing rules:
   - Work with immutable and mutable references
   - Understand the differences between copying and moving
-- Introduction to lifetimes
-- Practice with small Rust projects to reinforce learning
-- Complete exercises on ownership, borrowing, and references
-
-### Week 2: Networking Basics with Rust (Ends 14/10/2024)
-- Review CCNA content for networking fundamentals
-- Learn about network protocols (TCP/IP, UDP)
 - Study socket programming in Rust
 - Implement basic client-server communication in Rust
 - Explore Rust's async networking capabilities
 
-### Week 3: System Design and Communication Protocols (Ends 21/10/2024)
+### Week 3: System Design and Communication Protocols (Ends 28/10/2024)
 - Study system design principles and patterns
 - Learn about distributed systems architecture
 - Focus on communication within system design:
@@ -174,7 +173,7 @@ Key features of the project include:
   - Compare RPC with other communication methods (REST, GraphQL)
 - Analyze trade-offs between different communication methods in system design
 
-### Week 4: Advanced Rust and Distributed Systems Implementation (Ends 28/10/2024)
+### Week 4: Advanced Rust and Distributed Systems Implementation (Ends 04/11/2024)
 - Explore advanced Rust topics:
   - Concurrency
   - Unsafe Rust
@@ -183,7 +182,7 @@ Key features of the project include:
 - Implement a small distributed system in Rust, incorporating RPC or gRPC for communication
 - Test and debug the distributed system
 
-### Week 5: Cryptography and Math Foundations (Ends 04/11/2024)
+### Week 5: Cryptography and Math Foundations (Ends 11/11/2024)
 - Study cryptographic principles and algorithms
 - Deep dive into the Discrete Logarithm Problem (DLP) and its importance in cryptography
 - Explore the mathematical foundations of the Schnorr protocol, including:
@@ -199,32 +198,32 @@ Key features of the project include:
 - Review and practice relevant mathematical concepts (modular arithmetic, group theory)
 - Analyze the security implications of DLP in the context of quantum computing
 
-### Week 6: Architecture Design and Cryptography (Ends 11/11/2024)
+### Week 6: Architecture Design and Cryptography (Ends 18/11/2024)
 - Create comprehensive project architecture diagram
 - Define system components and their interactions
 - Plan data flow and communication protocols
 - Continue solving CryptoHack challenges
 - Begin detailed design of the Schnorr-Pedersen protocol implementation
 
-### Week 7: Schnorr-Pedersen Protocol Implementation (Ends 18/11/2024)
+### Week 7: Schnorr-Pedersen Protocol Implementation (Ends 25/11/2024)
 - Implement key generation, proof creation, and verification
 - Optimize big integer operations
 - Write unit tests for the protocol
 - Apply networking knowledge to protocol design
 
-### Week 8: Rust Authentication Server Development (Ends 25/11/2024)
+### Week 8: Rust Authentication Server Development (Ends 02/12/2024)
 - Set up async Rust server using Tokio
 - Implement user registration and authentication endpoints
 - Add error handling and logging
 - Incorporate system design principles into server architecture
 
-### Week 9: gRPC Integration (Ends 02/12/2024)
+### Week 9: gRPC Integration (Ends 09/12/2024)
 - Define protocol buffers for ZKP messages
 - Generate Rust code from protocol buffers
 - Implement gRPC server and client
 - Apply networking knowledge to gRPC implementation
 
-### Week 10: Performance Optimization and Security Audit for Protocol Enhancements (Ends 09/12/2024)
+### Week 10: Performance Optimization and Security Audit for Protocol Enhancements (Ends 16/12/2024)
 - Implement benchmarking tools for key operations
 - Implement batching techniques for multiple authentication requests
 - Optimize critical parts of the Schnorr-Pedersen protocol implementation
@@ -234,7 +233,7 @@ Key features of the project include:
 - Refactor codebase to improve error handling and logging
 - Implement logging and monitoring systems
 
-### Week 11-13: Bachelor Thesis Writing and Presentation Preparation (10/12/2024 - 30/12/2024)
+### Week 11-13: Bachelor Thesis Writing and Presentation Preparation (16/12/2024 - 30/12/2024)
 - Write the complete bachelor thesis:
   - Introduction and Background
   - Literature Review on ZKP and Schnorr-Pedersen Protocol
