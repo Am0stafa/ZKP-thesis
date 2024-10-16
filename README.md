@@ -13,7 +13,7 @@ Supervised by Dr. Mohamed
    - [Milestone 7: Dockerization and Simulation](#milestone-7-dockerization-and-simulation)
    - [Milestone 8: Bachelor Thesis Writing and Project Documentation](#milestone-8-bachelor-thesis-writing-and-project-documentation)
 3. [Implementation Plan](#implementation-plan)
-   - [Week 1: Learning Rust Fundamentals](#week-1-learning-rust-fundamentals-ends-07102024)
+   - [Week 1: Learning Rust Fundamentals](#week-1-learning-rust-fundamentals-ends-07102024) ✅
    - [Week 2: Networking Basics with Rust](#week-2-networking-basics-with-rust-ends-14102024)
    - [Week 3: System Design and Communication Protocols](#week-3-system-design-and-communication-protocols-ends-21102024)
    - [Week 4: Advanced Rust and Distributed Systems Implementation](#week-4-advanced-rust-and-distributed-systems-implementation-ends-28102024)
@@ -148,6 +148,15 @@ Key features of the project include:
 - Introduction to lifetimes
 - Practice with small Rust projects to reinforce learning
 - Complete exercises on ownership, borrowing, and references
+
+##### Outcome: Foundational Rust Knowledge
+- Learned Rust syntax, data types, and control structures
+- Understood structs, implementations, and methods in Rust
+- Grasped the concept of ownership, including moving and copying values
+- Explored Rust's borrowing system with immutable and mutable references
+- Practiced with arrays, vectors, and slices
+- Implemented basic functionality using external crates
+- Gained insights into Rust's memory safety principles and their impact on code design
 
 ### Week 2: Networking Basics with Rust (Ends 21/10/2024)
 - Review CCNA content for networking fundamentals
