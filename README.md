@@ -1,5 +1,5 @@
 # ZK-AutonomousAuth: A Zero-Knowledge Proof Authentication System with Rust and gRPC for Autonomous Vehicles 
-Supervised by Dr. Mohamed
+Supervised by Dr. Mohamed 
 
 ## Table of Contents
 1. [Project Description](#project-description)
