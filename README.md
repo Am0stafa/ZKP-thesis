@@ -1,4 +1,4 @@
-# ZK-AutonomousAuth: A Zero-Knowledge Proof Authentication System with Rust and gRPC for Autonomous Vehicles 
+# SecureAV-ZKP: A Hardware-Backed Zero-Knowledge Proof Authentication System with Rust and gRPC for Autonomous Vehicle Security
 Supervised by Dr. Mohamed
 
 ## Table of Contents
@@ -14,9 +14,9 @@ Supervised by Dr. Mohamed
    - [Milestone 8: Bachelor Thesis Writing and Project Documentation](#milestone-8-bachelor-thesis-writing-and-project-documentation)
 3. [Implementation Plan](#implementation-plan)
    - [Week 1: Learning Rust Fundamentals](#week-1-learning-rust-fundamentals-ends-07102024) ✅
-   - [Week 2: Networking Basics with Rust](#week-2-networking-basics-with-rust-ends-14102024)
-   - [Week 3: System Design and Communication Protocols](#week-3-system-design-and-communication-protocols-ends-21102024)
-   - [Week 4: Advanced Rust and Distributed Systems Implementation](#week-4-advanced-rust-and-distributed-systems-implementation-ends-28102024)
+   - [Week 2: Networking Basics with Rust](#week-2-networking-basics-with-rust-ends-14102024) ✅
+   - [Week 3: System Design and Communication Protocols](#week-3-system-design-and-communication-protocols-ends-21102024) ✅
+   - [Week 4: Advanced Rust and Distributed Systems Implementation](#week-4-advanced-rust-and-distributed-systems-implementation-ends-28102024) ✅
    - [Week 5: Cryptography and Math Foundations](#week-5-cryptography-and-math-foundations-ends-04112024)
    - [Week 6: Architecture Design and Cryptography](#week-6-architecture-design-and-cryptography-ends-11112024)
    - [Week 7: Schnorr-Pedersen Protocol Implementation](#week-7-schnorr-pedersen-protocol-implementation-ends-18112024)
@@ -170,6 +170,20 @@ Key features of the project include:
 - Implement basic client-server communication in Rust
 - Explore Rust's async networking capabilities
 
+##### Outcome: Advanced Rust and Networking Knowledge
+- Studied Rust's ownership system and borrowing rules through practical examples
+- Implemented basic TCP/IP socket programming in Rust
+- Created simple client-server applications demonstrating:
+  - Synchronous and asynchronous communication
+  - Error handling in networked applications
+  - Basic protocol implementation
+- Applied CCNA networking concepts in Rust implementations
+- Developed understanding of:
+  - Network protocols and their implementation
+  - TCP/UDP socket programming
+  - Async programming patterns in Rust
+  - Error handling in distributed systems
+
 ### Week 3: System Design and Communication Protocols (Ends 28/10/2024)
 - Study system design principles and patterns
 - Learn about distributed systems architecture
@@ -182,6 +196,25 @@ Key features of the project include:
   - Compare RPC with other communication methods (REST, GraphQL)
 - Analyze trade-offs between different communication methods in system design
 
+##### Outcome: System Design and Architecture Expertise
+- Dove deep into large-scale system architecture principles through an intensive course on Software Architecture & Technology
+- Gained practical knowledge in:
+  - Designing for critical non-functional requirements (performance, scalability, reliability)
+  - Implementing various communication patterns and protocols
+- Mastered key architectural concepts:
+  - Different RPC implementations and their trade-offs
+  - gRPC fundamentals and protocol buffers
+  - Communication patterns (unary, streaming, bidirectional)
+  - Modern architectural patterns (microservices, event-driven)
+- Learned real-world deployment strategies using:
+  - Docker containerization
+  - Cloud-native architectures
+- Developed a solid understanding of system performance considerations:
+  - Latency optimization
+  - Caching strategies
+  - Load balancing approaches
+  - Database scaling patterns
+
 ### Week 4: Advanced Rust and Distributed Systems Implementation (Ends 04/11/2024)
 - Explore advanced Rust topics:
   - Concurrency
@@ -190,6 +223,11 @@ Key features of the project include:
 - Practice designing scalable systems using Rust
 - Implement a small distributed system in Rust, incorporating RPC or gRPC for communication
 - Test and debug the distributed system
+
+##### Outcome: Initial Advanced Rust Exploration
+- Started exploring Rust's concurrency model and basic macro system
+- Began experimenting with simple distributed system concepts
+- Reviewed fundamental unsafe Rust principles
 
 ### Week 5: Cryptography and Math Foundations (Ends 11/11/2024)
 - Study cryptographic principles and algorithms
