@@ -225,9 +225,8 @@ Key features of the project include:
 - Test and debug the distributed system
 
 ##### Outcome: Initial Advanced Rust Exploration
-- Started exploring Rust's concurrency model and basic macro system
-- Began experimenting with simple distributed system concepts
-- Reviewed fundamental unsafe Rust principles
+- Watched multiple case studies for Building Authentication systems
+
 
 ### Week 5: Cryptography and Math Foundations (Ends 11/11/2024)
 - Study cryptographic principles and algorithms
